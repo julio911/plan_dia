@@ -1,0 +1,14 @@
+nombre del programa: planea tu día
+idea del programa: esm un programa en donde se pueden registrar acciones y esta avisara a 
+la fecha y hora en la que se indico
+
+requisitos funcionales
+1- se deben poder registrar acciones con fecha, duración de esta y una imagen(ilustrativa)
+2- el programa debe avisar el inicio de la acción y el fin
+3- se debe poder cancelar una acción 
+4- se tiene que poder mover (para otra fecha) la acción
+5- el programa debe dejar editar la acción
+6- al finalizar el tiempo de una acción preguntara si esta se realizo
+7- deberá mostrar un porcentaje de acciones hechas
+8- al iniciar el programa este debe mostrar un consejo de como planear el día
+9- estos consejos se deben dejar de mostrar si el usuario selecciona (no mostrar mensajes)
